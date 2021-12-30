@@ -35,3 +35,17 @@ const maxOfArray = (arr) =>{
     return maxNumber;
 }
 maxOfArray(array);
+
+### Courses:
+OKTEN Web UniversITy, course «JavaScript Complex» (in process)   
+RS Schools, course «JavaScript/Front-end. Stage 0» (in process)
+
+### Languages:
+English - Pre Intermediate (A2)
+
+![english_test_result](./eng_test.png "Result of EPAM english test")
+
+
+Ukrainian - native
+
+Russian - fluently
